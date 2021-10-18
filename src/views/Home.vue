@@ -17,6 +17,11 @@
             <router-link to="signup">
               <button class="btn m-md-5 mt-2" id="signup">Sign Up</button>
             </router-link>
+         <div class="row fixed-bottom p-2">
+           <div class="col-12">
+             <span>© 2021<a id="link" href=""> Mehranlip</a>. All rights reserved.</span>
+           </div>
+         </div>
 
        </div>
      </div>
@@ -35,6 +40,7 @@ export default {
 *{
   padding: 0;
   margin: 0;
+
 }
 .landing-bg {
   background-image: url("https://uhdwallpapers.org/uploads/converted/18/04/09/to-highest-peaks-3840x2160_59667-mm-90.jpg");
@@ -110,5 +116,39 @@ export default {
   flex-grow: 0;
   margin: 0px 10px;
 }
+span{
+  font-family: Sen;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+
+  color: #FFFFFF;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+#link{
+  font-family: Sen;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+  /* identical to box height */
+
+
+  color: #FFFFFF;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#link:hover{
+
+  color: #aaa9a9;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.85);
+}
+
 
 </style>
