@@ -128,6 +128,15 @@ export default {
   font-size: 30px;
   border: 3px solid white;
   border-radius: 50%;
+  transition: 300ms;
+}
+.icon a i:hover {
+  padding: 7px;
+  color: black;
+  margin: 10px;
+  font-size: 35px;
+  border: 3px solid black;
+  border-radius: 50%;
 }
 
 #title-login{
