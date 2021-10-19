@@ -40,7 +40,7 @@
                   <div class=" text-center">
                     <a href="#"><button class="btn login-btn mb-3">Login now</button></a>
                     <br>
-                    <a href="#"><button class="btn signin-btn"><i class="fab fa-google text-warning mr-2"></i> Or sign-in with google </button></a>
+                    <a href="#"><button class="btn signin-btn"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt=""> Or Login with google </button></a>
                     <br>
                   </div>
                   <div class="mt-3">
