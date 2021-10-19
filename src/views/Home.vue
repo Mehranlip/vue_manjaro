@@ -19,7 +19,7 @@
             </router-link>
          <div class="row fixed-bottom p-2">
            <div class="col-12">
-             <span>© 2021<a id="link" href=""> Mehranlip</a>. All rights reserved.</span>
+             <span>© 2021<a id="link" href="https://github.com/Mehranlip"> Mehranlip</a>. All rights reserved.</span>
            </div>
          </div>
 
